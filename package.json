@@ -1,0 +1,18 @@
+{
+  "name": "metrobot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "geolib": "^3.3.4",
+    "install": "^0.13.0",
+    "nodemon": "^3.1.4",
+    "telegraf": "^4.16.3"
+  }
+}
